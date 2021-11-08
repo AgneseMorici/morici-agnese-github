@@ -1,6 +1,6 @@
-import './TotRepos.css';
+import './TopRepos.css';
 
-export const TotRepos = () => {
+export const TopRepos = () => {
     return(
         <div className="TotRepos">
             Totale repos: 10

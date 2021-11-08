@@ -1,5 +1,5 @@
 import './Top.css';
-import {TotRepos} from './TotRepos/TotRepos';
+import {TopRepos} from './TopRepos/TopRepos';
 import {Selection} from './Selection/Selection';
 import {Search} from './Search/Search';
 
@@ -8,7 +8,7 @@ export const Top = () => {
         <div className="formTop">
             <ul className="ulTop">
                 <li className="liTop1">
-                    <TotRepos/>
+                    <TopRepos/>
                 </li>
                 <li className="liTop2">
                     <Selection/> 

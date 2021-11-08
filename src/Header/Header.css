@@ -1,0 +1,35 @@
+.formHeader{
+    width: 100%;
+    border: green solid 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.Logo{
+    margin-left: 5%;
+    margin-top: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 20%;
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+.ulHeader{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+.liHeader1{
+    width: 60%;
+    height: 100%;
+}
+.liHeader2{
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    padding-top: 15px;
+}

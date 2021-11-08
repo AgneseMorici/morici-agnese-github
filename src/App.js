@@ -6,14 +6,15 @@ import './App.css';
 
 function App() {
   const [repos] = useState(listRepos()); 
-  /*
+  
   console.log(repos.repositories);
   console.log(repos.users);
-  */
+  
   return (
     <div className="App">
       <Header/>
       <Body/>
+      
     </div>
   );
 }

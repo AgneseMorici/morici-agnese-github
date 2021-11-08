@@ -1,20 +1,20 @@
 {
     "dataUser": [
             {
-                "surname": "Micca",
-                "name": "Federico",
+                "surname": "Morici",
+                "name": "Agnese",
                 "login": "Debag-software",
                 "repos": [
-                    "Micca-Federico-github"
+                    "Morici-Agnese-github"
                 ],
                 "class": "Full-Stack-Developer 2020/2021"
             },
             {
-                "surname": "Morici",
-                "name":"Agnese",
-                "login": "Agnese-Morici",
+                "surname": "Agostoni",
+                "name":"Luca",
+                "login": "Luca-Agostoni",
                 "repos": [
-                    "Morici-Agnese-github"
+                    "Agostoni-Luca-github"
                 ],
                 "class": "Full-Stack-Developer 2020/2021"
             }

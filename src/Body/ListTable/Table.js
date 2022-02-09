@@ -1,4 +1,5 @@
 import './Table.css';
+import {  } from "./LiTable/LiTable";
 
 export const Table = () => {
     return(
